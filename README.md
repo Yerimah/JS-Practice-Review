@@ -1,46 +1,36 @@
-# Project-Webpack
+![](https://img.shields.io/badge/Microverse-blueviolet)
 
-A basic webpack boilerplate, ready to be used immediately, no configuration needed. It doesn't tell you, which framework or library you should be using, it contains only a handful of modules:
+# To-do-List-App
 
+![Todo list](https://user-images.githubusercontent.com/71140133/150340276-7f87da9e-13e9-45c3-a8ba-01be1503c155.PNG)
+
+Additional description about the project and its features.
+
+## Built With
+
+- HTML 
+- CSS
+- Javascript
 - Webpack
-- html-webpack-plugin
-- css-loader
-- style-loader
-- webpack-dev-server
 
-Everything else is up to you.
+## DEMO
 
-## Usage
+https://yerimah.github.io/To-do-List-App/
 
-start by cloning this repository by running:
+## Getting Started
 
-```
-git clone https://github.com/Yerimah/Project-Webpack.git
-```
+To get a local copy up and running follow these simple example steps.
 
-cd to the folder
+### Prerequisites
 
-```
-cd Project-Webpack
-```
+clone repo: `git clone https://github.com/Yerimah/To-do-List-App`
 
-run this command to install all the packages needed
+then
+`cd To-do-List-App`
 
-```
-npm install
-```
+### Install
 
-to run a live server on port 8080 run this command
-
-```
-npm run start
-```
-
-to build your project run:
-
-```
-npm run build
-```
+run `npm install` to install dependencies
 
 ## Authors
 
@@ -50,6 +40,18 @@ npm run build
 - Twitter: [@iamdeewyne](https://twitter.com/iamdeewyne)
 - LinkedIn: [@daniel-yerimah](https://www.linkedin.com/in/daniel-yerimah/)
 
+## 🤝 Contributing
+
+Contributions, issues, and feature requests are welcome!
+
+Feel free to check the [issues page](../../issues/).
+
 ## Show your support
 
 Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+- Hat tip to anyone whose code was used
+- Inspiration
+- etc
